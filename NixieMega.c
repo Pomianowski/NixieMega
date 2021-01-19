@@ -28,8 +28,8 @@
     }
 
     /*
-  * Main Function
-  */
+    * Main Function
+    */
     int main()
     {
         //do whatever you want
